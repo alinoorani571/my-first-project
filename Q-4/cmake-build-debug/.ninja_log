@@ -1,0 +1,24 @@
+# ninja log v5
+0	52	6995570197517745	CMakeFiles/untitled32.dir/main.c.obj	ed8797478c7409ce
+1	55	6995570357237627	CMakeFiles/untitled32.dir/main.c.obj	ed8797478c7409ce
+55	125	6995570357907277	untitled32.exe	b314d6a1fbcced3c
+1	53	6995570445118823	CMakeFiles/untitled32.dir/main.c.obj	ed8797478c7409ce
+53	113	6995570445695519	untitled32.exe	b314d6a1fbcced3c
+1	54	6995570555405296	CMakeFiles/untitled32.dir/main.c.obj	ed8797478c7409ce
+54	113	6995570555971097	untitled32.exe	b314d6a1fbcced3c
+1	50	6995572278351788	CMakeFiles/untitled32.dir/main.c.obj	ed8797478c7409ce
+51	109	6995572278904247	untitled32.exe	b314d6a1fbcced3c
+1	51	6995574908162245	CMakeFiles/untitled32.dir/main.c.obj	ed8797478c7409ce
+51	116	6995574908774808	untitled32.exe	b314d6a1fbcced3c
+1	54	6995575651175851	CMakeFiles/untitled32.dir/main.c.obj	ed8797478c7409ce
+54	119	6995575651789379	untitled32.exe	b314d6a1fbcced3c
+1	58	6995575764644226	CMakeFiles/untitled32.dir/main.c.obj	ed8797478c7409ce
+58	126	6995575765300744	untitled32.exe	b314d6a1fbcced3c
+2	59	6995576176088124	CMakeFiles/untitled32.dir/main.c.obj	ed8797478c7409ce
+59	118	6995576176642942	untitled32.exe	b314d6a1fbcced3c
+1	48	6995576352724878	CMakeFiles/untitled32.dir/main.c.obj	ed8797478c7409ce
+48	106	6995576353268026	untitled32.exe	b314d6a1fbcced3c
+1	48	6995576797970279	CMakeFiles/untitled32.dir/main.c.obj	ed8797478c7409ce
+48	108	6995576798521862	untitled32.exe	b314d6a1fbcced3c
+0	48	6995576889263219	CMakeFiles/untitled32.dir/main.c.obj	ed8797478c7409ce
+48	108	6995576889831131	untitled32.exe	b314d6a1fbcced3c
